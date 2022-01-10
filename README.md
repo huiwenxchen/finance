@@ -4,4 +4,5 @@ A Flask web app that allows users to register for an account, query real stocksâ
 
 
 To run this program, ensure that you have all requirements in requirements.txt. 
+
 Run the command flask run in your terminal.
